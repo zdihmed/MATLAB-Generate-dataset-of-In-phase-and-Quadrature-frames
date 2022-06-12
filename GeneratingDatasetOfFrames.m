@@ -1,5 +1,5 @@
 rng(1205);
-numFramesPerModType = 1;
+numFramesPerModType = 1;% Number of frames per each modulation type to be generated
 
 sps = 4;                % Samples per symbol, 
 spf = 1024;             % Samples per frame, 
